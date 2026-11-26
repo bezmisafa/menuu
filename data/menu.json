@@ -1,0 +1,2495 @@
+{
+  "version": 1,
+  "settings": {
+    "titles": {
+      "tr": "BEZMI SAFA NARGILE KAFE",
+      "en": "BEZMI SAFA HOOKAH CAFE",
+      "ar": "بزمي صفا نرجيلة كافيه"
+    },
+    "heroImage": "resimler/menu.png"
+  },
+  "categories": [
+    {
+      "id": "sicak-icecekler",
+      "icon": "☕",
+      "names": {
+        "tr": "SICAK İÇECEKLER",
+        "en": "HOT DRINKS",
+        "ar": "مشروبات ساخنة"
+      },
+      "visible": true
+    },
+    {
+      "id": "kahveler",
+      "icon": "☕",
+      "names": {
+        "tr": "KAHVELER",
+        "en": "COFFEES",
+        "ar": "أنواع القهوة"
+      },
+      "visible": true
+    },
+    {
+      "id": "soguk-kahveler",
+      "icon": "🧊",
+      "names": {
+        "tr": "SOĞUK KAHVELER",
+        "en": "ICED COFFEES",
+        "ar": "قهوة باردة"
+      },
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar",
+      "icon": "🥤",
+      "names": {
+        "tr": "MEŞRUBAT",
+        "en": "SOFT DRINKS",
+        "ar": "مشروبات غازية"
+      },
+      "visible": true
+    },
+    {
+      "id": "redbullar",
+      "icon": "⚡",
+      "names": {
+        "tr": "REDBULL",
+        "en": "RED BULL",
+        "ar": "ريد بول"
+      },
+      "visible": true
+    },
+    {
+      "id": "milkshake",
+      "icon": "🥛",
+      "names": {
+        "tr": "MİLKSHAKE",
+        "en": "MILKSHAKES",
+        "ar": "ميلك شيك"
+      },
+      "visible": true
+    },
+    {
+      "id": "mohito",
+      "icon": "🥤",
+      "names": {
+        "tr": "MOJİTO",
+        "en": "MOJITOS",
+        "ar": "موهيتو"
+      },
+      "visible": true
+    },
+    {
+      "id": "limonata",
+      "icon": "🍋",
+      "names": {
+        "tr": "LİMONATA",
+        "en": "LEMONADES",
+        "ar": "ليموناضة"
+      },
+      "visible": true
+    },
+    {
+      "id": "frozen",
+      "icon": "🍧",
+      "names": {
+        "tr": "FROZEN",
+        "en": "FROZEN DRINKS",
+        "ar": "فروزن"
+      },
+      "visible": true
+    },
+    {
+      "id": "smoothie",
+      "icon": "🍓",
+      "names": {
+        "tr": "SMOOTHİE",
+        "en": "SMOOTHIES",
+        "ar": "سموذي"
+      },
+      "visible": true
+    },
+    {
+      "id": "vitamin",
+      "icon": "⚡",
+      "names": {
+        "tr": "VİTAMİN DEPOSU",
+        "en": "VITAMIN BOOST",
+        "ar": "ركن الفيتامينات"
+      },
+      "visible": true
+    },
+    {
+      "id": "atistirmalik",
+      "icon": "🍿",
+      "names": {
+        "tr": "ATIŞTIRMALIK",
+        "en": "SNACKS",
+        "ar": "وجبات خفيفة"
+      },
+      "visible": true
+    },
+    {
+      "id": "sicak-sepeti",
+      "icon": "🍟",
+      "names": {
+        "tr": "SICAK SEPET",
+        "en": "HOT BASKET",
+        "ar": "سلة ساخنة"
+      },
+      "visible": true
+    },
+    {
+      "id": "yemek",
+      "icon": "🍔",
+      "names": {
+        "tr": "ANA YEMEK",
+        "en": "MAIN COURSES",
+        "ar": "وجبات رئيسية"
+      },
+      "visible": true
+    },
+    {
+      "id": "tatli",
+      "icon": "🍰",
+      "names": {
+        "tr": "TATLI",
+        "en": "DESSERTS",
+        "ar": "حلويات"
+      },
+      "visible": true
+    },
+    {
+      "id": "marpuc",
+      "icon": "🚬",
+      "names": {
+        "tr": "MARPUÇ/LÜLE",
+        "en": "HOOKAH HOSES/BOWL",
+        "ar": "خرطوم / رأس"
+      },
+      "visible": true
+    },
+    {
+      "id": "nargile",
+      "icon": "🚬",
+      "names": {
+        "tr": "NARGİLE",
+        "en": "HOOKAH",
+        "ar": "نرجيلة"
+      },
+      "visible": true
+    },
+    {
+      "id": "klasik-nargile",
+      "icon": "🚬",
+      "names": {
+        "tr": "KLASİK",
+        "en": "CLASSIC",
+        "ar": "كلاسيك"
+      },
+      "visible": true
+    },
+    {
+      "id": "special",
+      "icon": "🚬",
+      "names": {
+        "tr": "SPECİAL",
+        "en": "SPECIAL",
+        "ar": "خاص"
+      },
+      "visible": true
+    },
+    {
+      "id": "meyve-nargile",
+      "icon": "🚬",
+      "names": {
+        "tr": "MEYVE",
+        "en": "FRUIT HOOKAH",
+        "ar": "نرجيلة فواكه"
+      },
+      "visible": true
+    }
+  ],
+  "products": [
+    {
+      "id": "sicak-icecekler-1",
+      "categoryId": "sicak-icecekler",
+      "names": {
+        "tr": "Çay",
+        "en": "Tea",
+        "ar": "شاي"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 30,
+      "extraPrice": null,
+      "image": "resimler/cay.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-icecekler-2",
+      "categoryId": "sicak-icecekler",
+      "names": {
+        "tr": "Fincan Çay",
+        "en": "Cup of Tea",
+        "ar": "كوب شاي"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 70,
+      "extraPrice": null,
+      "image": "resimler/fincancay.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-icecekler-3",
+      "categoryId": "sicak-icecekler",
+      "names": {
+        "tr": "Bitki Çayı",
+        "en": "Herbal Tea",
+        "ar": "شاي أعشاب"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/bitki-cayi.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-icecekler-4",
+      "categoryId": "sicak-icecekler",
+      "names": {
+        "tr": "Meyve Çayı",
+        "en": "Fruit Tea",
+        "ar": "شاي فواكه"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 70,
+      "extraPrice": null,
+      "image": "resimler/meyvecay.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-icecekler-5",
+      "categoryId": "sicak-icecekler",
+      "names": {
+        "tr": "Salep",
+        "en": "Sahlep",
+        "ar": "سحلب"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 160,
+      "extraPrice": null,
+      "image": "resimler/salep.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-icecekler-6",
+      "categoryId": "sicak-icecekler",
+      "names": {
+        "tr": "Türk Kahvesi",
+        "en": "Turkish Coffee",
+        "ar": "قهوة تركية"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 120,
+      "extraPrice": null,
+      "image": "resimler/turkahve.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-icecekler-7",
+      "categoryId": "sicak-icecekler",
+      "names": {
+        "tr": "Menengiç",
+        "en": "Menengic Coffee",
+        "ar": "قهوة بطم (مننغيتش)"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 125,
+      "extraPrice": null,
+      "image": "resimler/turkahve.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-icecekler-8",
+      "categoryId": "sicak-icecekler",
+      "names": {
+        "tr": "Dibek",
+        "en": "Dibek Coffee",
+        "ar": "قهوة ديبك"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 125,
+      "extraPrice": null,
+      "image": "resimler/turkahve.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-1",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Nescafe",
+        "en": "Nescafe",
+        "ar": "نسكافيه"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 170,
+      "extraPrice": null,
+      "image": "resimler/nescafe.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-2",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Sütlü Kahve",
+        "en": "Coffee with Milk",
+        "ar": "قهوة بالحليب"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 170,
+      "extraPrice": null,
+      "image": "resimler/sütlükahve.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-3",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Cafe Latte",
+        "en": "Caffe Latte",
+        "ar": "كافيه لاتيه"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 190,
+      "extraPrice": null,
+      "image": "resimler/latte.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-4",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Mocha",
+        "en": "Mocha",
+        "ar": "موكا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 190,
+      "extraPrice": null,
+      "image": "resimler/mocha.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-5",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Sıcak Çikolata",
+        "en": "Hot Chocolate",
+        "ar": "شوكولاتة ساخنة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/sıcakçikolata.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-6",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Espresso",
+        "en": "Espresso",
+        "ar": "إسبريسو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 140,
+      "extraPrice": null,
+      "image": "resimler/espresso.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-7",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Vanilyalı Cappuccino",
+        "en": "Vanilla Cappuccino",
+        "ar": "كابتشينو فانيليا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/cappucin.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-8",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Karamelli Cappuccino",
+        "en": "Caramel Cappuccino",
+        "ar": "كابتشينو كراميل"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/cappucin.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-9",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Americano",
+        "en": "Americano",
+        "ar": "أمريكانو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/americano.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "kahveler-10",
+      "categoryId": "kahveler",
+      "names": {
+        "tr": "Filtre Kahve",
+        "en": "Filter Coffee",
+        "ar": "قهوة مفلترة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/filtre.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "soguk-kahveler-1",
+      "categoryId": "soguk-kahveler",
+      "names": {
+        "tr": "Ice Cafe Latte",
+        "en": "Iced Caffe Latte",
+        "ar": "آيس كافيه لاتيه"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/icelatte.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "soguk-kahveler-2",
+      "categoryId": "soguk-kahveler",
+      "names": {
+        "tr": "Ice Caramel Latte",
+        "en": "Iced Caramel Latte",
+        "ar": "آيس كراميل لاتيه"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 240,
+      "extraPrice": null,
+      "image": "resimler/icelatte.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "soguk-kahveler-3",
+      "categoryId": "soguk-kahveler",
+      "names": {
+        "tr": "Soğuk Çikolata",
+        "en": "Iced Chocolate",
+        "ar": "شوكولاتة باردة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 240,
+      "extraPrice": null,
+      "image": "resimler/coldcho.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "soguk-kahveler-4",
+      "categoryId": "soguk-kahveler",
+      "names": {
+        "tr": "Ice Americano",
+        "en": "Iced Americano",
+        "ar": "آيس أمريكانو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/iceamerica.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "soguk-kahveler-5",
+      "categoryId": "soguk-kahveler",
+      "names": {
+        "tr": "Nescafe Xpress Çeşitleri",
+        "en": "Nescafe Xpress Varieties",
+        "ar": "أنواع نسكافيه إكسبريس"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 130,
+      "extraPrice": null,
+      "image": "resimler/nescafesoğuk.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-1",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Su",
+        "en": "Water",
+        "ar": "ماء"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 30,
+      "extraPrice": null,
+      "image": "resimler/su.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-2",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Kola",
+        "en": "Cola",
+        "ar": "كولا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 120,
+      "extraPrice": null,
+      "image": "resimler/kola.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-3",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Sprite",
+        "en": "Sprite",
+        "ar": "سبرايت"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 120,
+      "extraPrice": null,
+      "image": "resimler/sprite.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-4",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Fanta",
+        "en": "Fanta",
+        "ar": "فانتا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 120,
+      "extraPrice": null,
+      "image": "resimler/fanta.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-5",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Ice Tea",
+        "en": "Iced Tea",
+        "ar": "شاي مثلج"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 120,
+      "extraPrice": null,
+      "image": "resimler/icetea.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-6",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Meyveli Soda",
+        "en": "Fruit Flavored Soda",
+        "ar": "صودا بالفواكه"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 80,
+      "extraPrice": null,
+      "image": "resimler/meyvelisoda.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-7",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Soda",
+        "en": "Mineral Water",
+        "ar": "صودا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 70,
+      "extraPrice": null,
+      "image": "resimler/soda.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-8",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Churchill",
+        "en": "Churchill",
+        "ar": "تشرشل"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 110,
+      "extraPrice": null,
+      "image": "resimler/churccih.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-9",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Niğde Gazozu",
+        "en": "Nigde Soda",
+        "ar": "كازوز نيغدة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 85,
+      "extraPrice": null,
+      "image": "resimler/niğde.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-10",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Cappy Meyve Suları (Vişne,  Şeftali, Karışık)",
+        "en": "Cappy Fruit Juices (Cherry, Peach, Mixed)",
+        "ar": "عصائر كابي (كرز، خوخ، مشكل)"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 120,
+      "extraPrice": null,
+      "image": "resimler/cappy.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mesrubatlar-11",
+      "categoryId": "mesrubatlar",
+      "names": {
+        "tr": "Ayran",
+        "en": "Ayran",
+        "ar": "عيران"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 60,
+      "extraPrice": null,
+      "image": "resimler/ayran.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "redbullar-1",
+      "categoryId": "redbullar",
+      "names": {
+        "tr": "Redbull",
+        "en": "Red Bull",
+        "ar": "ريد بول"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 160,
+      "extraPrice": null,
+      "image": "resimler/redbull.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "redbullar-2",
+      "categoryId": "redbullar",
+      "names": {
+        "tr": "Meyveli Redbull",
+        "en": "Fruit Flavored Red Bull",
+        "ar": "ريد بول بالفواكه"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "resimler/meyveredbull.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "redbullar-3",
+      "categoryId": "redbullar",
+      "names": {
+        "tr": "Fındıklı Redbull",
+        "en": "Hazelnut Red Bull",
+        "ar": "ريد بول بالبندق"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/redbull.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "redbullar-4",
+      "categoryId": "redbullar",
+      "names": {
+        "tr": "Atom",
+        "en": "Atom (Energy Mix)",
+        "ar": "أتوم"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 180,
+      "extraPrice": null,
+      "image": "",
+      "icon": "💥",
+      "visible": true
+    },
+    {
+      "id": "milkshake-1",
+      "categoryId": "milkshake",
+      "names": {
+        "tr": "Çilek",
+        "en": "Strawberry",
+        "ar": "فراولة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/milkç.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "milkshake-2",
+      "categoryId": "milkshake",
+      "names": {
+        "tr": "Vanilya",
+        "en": "Vanilla",
+        "ar": "فانيليا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/milkv.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "milkshake-3",
+      "categoryId": "milkshake",
+      "names": {
+        "tr": "Çikolata",
+        "en": "Chocolate",
+        "ar": "شوكولاتة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/milkçi.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "milkshake-4",
+      "categoryId": "milkshake",
+      "names": {
+        "tr": "Karadut",
+        "en": "Black Mulberry",
+        "ar": "توت أسود"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/milkk.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "mohito-1",
+      "categoryId": "mohito",
+      "names": {
+        "tr": "Nane",
+        "en": "Mint",
+        "ar": "نعناع"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "",
+      "icon": "🌿",
+      "visible": true
+    },
+    {
+      "id": "mohito-2",
+      "categoryId": "mohito",
+      "names": {
+        "tr": "Çilek",
+        "en": "Strawberry",
+        "ar": "فراولة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "",
+      "icon": "🍓",
+      "visible": true
+    },
+    {
+      "id": "mohito-3",
+      "categoryId": "mohito",
+      "names": {
+        "tr": "Polo",
+        "en": "Polo (Mint)",
+        "ar": "بولو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "",
+      "icon": "🌿🍬",
+      "visible": true
+    },
+    {
+      "id": "mohito-4",
+      "categoryId": "mohito",
+      "names": {
+        "tr": "Hibisküs",
+        "en": "Hibiscus",
+        "ar": "كركديه"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "",
+      "icon": "🌺",
+      "visible": true
+    },
+    {
+      "id": "limonata-1",
+      "categoryId": "limonata",
+      "names": {
+        "tr": "Limonata",
+        "en": "Classic Lemonade",
+        "ar": "ليموناضة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 150,
+      "extraPrice": null,
+      "image": "resimler/limonata.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "limonata-2",
+      "categoryId": "limonata",
+      "names": {
+        "tr": "Çilek",
+        "en": "Strawberry",
+        "ar": "فراولة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 180,
+      "extraPrice": null,
+      "image": "resimler/limonataç.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "limonata-3",
+      "categoryId": "limonata",
+      "names": {
+        "tr": "Karpuz",
+        "en": "Watermelon",
+        "ar": "بطيخ"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 180,
+      "extraPrice": null,
+      "image": "resimler/limonatak.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "limonata-4",
+      "categoryId": "limonata",
+      "names": {
+        "tr": "Nane",
+        "en": "Mint",
+        "ar": "نعناع"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 180,
+      "extraPrice": null,
+      "image": "resimler/limonatan.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "limonata-5",
+      "categoryId": "limonata",
+      "names": {
+        "tr": "Polo",
+        "en": "Polo",
+        "ar": "بولو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/POLO.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "frozen-1",
+      "categoryId": "frozen",
+      "names": {
+        "tr": "Çilek",
+        "en": "Strawberry",
+        "ar": "فراولة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/çilekfr.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "frozen-2",
+      "categoryId": "frozen",
+      "names": {
+        "tr": "Mango",
+        "en": "Mango",
+        "ar": "مانجو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/mangofr.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "frozen-3",
+      "categoryId": "frozen",
+      "names": {
+        "tr": "Böğürtlen",
+        "en": "Blackberry",
+        "ar": "توت"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/böğürtlenfr.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "frozen-4",
+      "categoryId": "frozen",
+      "names": {
+        "tr": "Kavun",
+        "en": "Melon",
+        "ar": "شمام"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/kavunfr.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "frozen-5",
+      "categoryId": "frozen",
+      "names": {
+        "tr": "Karpuz",
+        "en": "Watermelon",
+        "ar": "بطيخ"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/karpuzfr.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "frozen-6",
+      "categoryId": "frozen",
+      "names": {
+        "tr": "Elma",
+        "en": "Apple",
+        "ar": "تفاح"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/elmafr.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "smoothie-1",
+      "categoryId": "smoothie",
+      "names": {
+        "tr": "Çilek",
+        "en": "Strawberry",
+        "ar": "فراولة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/çileksm.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "smoothie-2",
+      "categoryId": "smoothie",
+      "names": {
+        "tr": "Çikolata",
+        "en": "Chocolate",
+        "ar": "شوكولاتة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/çikolatasm.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "smoothie-3",
+      "categoryId": "smoothie",
+      "names": {
+        "tr": "Kavun",
+        "en": "Melon",
+        "ar": "شمام"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 270,
+      "extraPrice": null,
+      "image": "resimler/kavun sm.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "vitamin-1",
+      "categoryId": "vitamin",
+      "names": {
+        "tr": "Portakal",
+        "en": "Fresh Orange Juice",
+        "ar": "برتقال"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/portakal.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "vitamin-2",
+      "categoryId": "vitamin",
+      "names": {
+        "tr": "Vitamin Wings",
+        "en": "Vitamin Wings",
+        "ar": "فيتامين وينجز"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "",
+      "icon": "💪",
+      "visible": true
+    },
+    {
+      "id": "vitamin-3",
+      "categoryId": "vitamin",
+      "names": {
+        "tr": "Nar",
+        "en": "Fresh Pomegranate Juice",
+        "ar": "رمان"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/nar.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "atistirmalik-1",
+      "categoryId": "atistirmalik",
+      "names": {
+        "tr": "Çerez",
+        "en": "Mixed Nuts",
+        "ar": "مكسرات مشكلة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 275,
+      "extraPrice": null,
+      "image": "resimler/çerez.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "atistirmalik-2",
+      "categoryId": "atistirmalik",
+      "names": {
+        "tr": "Meyve Tabağı",
+        "en": "Fruit Plate",
+        "ar": "طبق فاكهة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 400,
+      "extraPrice": null,
+      "image": "resimler/meyvesalata.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-sepeti-1",
+      "categoryId": "sicak-sepeti",
+      "names": {
+        "tr": "Sıcak Sepet",
+        "en": "Hot Combination Basket",
+        "ar": "سلة مأكولات ساخنة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 400,
+      "extraPrice": null,
+      "image": "resimler/sıcaksepet.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "sicak-sepeti-2",
+      "categoryId": "sicak-sepeti",
+      "names": {
+        "tr": "Patates",
+        "en": "French Fries",
+        "ar": "بطاطس مقلية"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/patates.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-1",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Hamburger",
+        "en": "Hamburger",
+        "ar": "همبرغر"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 450,
+      "extraPrice": null,
+      "image": "resimler/burger.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-2",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Double Hamburger",
+        "en": "Double Hamburger",
+        "ar": "دبل همبرغر"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 590,
+      "extraPrice": null,
+      "image": "resimler/double.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-3",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Cheeseburger",
+        "en": "Cheeseburger",
+        "ar": "تشيز برجر"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 470,
+      "extraPrice": null,
+      "image": "resimler/cheeseburger.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-4",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Köfte Porsiyon",
+        "en": "Meatball Platter",
+        "ar": "وجبة كفتة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 600,
+      "extraPrice": null,
+      "image": "resimler/köfte.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-5",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Köfte Ekmek",
+        "en": "Meatball Sandwich",
+        "ar": "سندويش كفتة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/köfteekmek.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-6",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Karışık Tost",
+        "en": "Mixed Toasted Sandwich",
+        "ar": "توست مشكل"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/tost.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-7",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Kaşarlı Tost",
+        "en": "Cheese Toasted Sandwich",
+        "ar": "توست بالجبنة (قشقوان)"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/tost.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-8",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Çift Kaşarlı Tost",
+        "en": "Double Cheese Toast",
+        "ar": "توست جبنة مضاعفة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 210,
+      "extraPrice": null,
+      "image": "resimler/tost.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-9",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Sucuklu Tost",
+        "en": "Sucuk Toasted Sandwich",
+        "ar": "توست بالسجق"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/tost.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-10",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Kavurmalı Tost",
+        "en": "Kavurma Toasted Sandwich",
+        "ar": "توست بالقاورمة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/tost.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-11",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Pizza Tost",
+        "en": "Pizza Toasted Sandwich",
+        "ar": "بيتزا توست"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "resimler/tost.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "yemek-12",
+      "categoryId": "yemek",
+      "names": {
+        "tr": "Patso",
+        "en": "Patso (Fries Sandwich)",
+        "ar": "باتسو (سندويش بطاطس)"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 200,
+      "extraPrice": null,
+      "image": "resimler/patso.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "tatli-1",
+      "categoryId": "tatli",
+      "names": {
+        "tr": "Sufle + Dondurma",
+        "en": "Soufflé + Ice Cream",
+        "ar": "سوفليه + آيس كريم"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 350,
+      "extraPrice": 50,
+      "image": "resimler/sufle.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "tatli-2",
+      "categoryId": "tatli",
+      "names": {
+        "tr": "Tiramisu",
+        "en": "Tiramisu",
+        "ar": "تيراميسو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/tiramisu.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "tatli-3",
+      "categoryId": "tatli",
+      "names": {
+        "tr": "Spoonful",
+        "en": "Spoonful",
+        "ar": "سبون فول"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/spoonful.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "tatli-4",
+      "categoryId": "tatli",
+      "names": {
+        "tr": "Cheesecake",
+        "en": "Cheesecake",
+        "ar": "تشيز كيك"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "resimler/cheesecake.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "tatli-5",
+      "categoryId": "tatli",
+      "names": {
+        "tr": "San Sebastian",
+        "en": "San Sebastian",
+        "ar": "سان سباستيان"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "resimler/sansebastian.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "tatli-6",
+      "categoryId": "tatli",
+      "names": {
+        "tr": "Magnolia",
+        "en": "Magnolia",
+        "ar": "ماغنوليا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/magnolya.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "tatli-7",
+      "categoryId": "tatli",
+      "names": {
+        "tr": "Profiterol",
+        "en": "Profiterole",
+        "ar": "بروفيتيرول"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/prof.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "tatli-8",
+      "categoryId": "tatli",
+      "names": {
+        "tr": "Trileçe",
+        "en": "Trilece (Tres Leches)",
+        "ar": "تريليتشا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 220,
+      "extraPrice": null,
+      "image": "resimler/tri.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "marpuc-1",
+      "categoryId": "marpuc",
+      "names": {
+        "tr": "Şeffaf/Buzlu Marpuç",
+        "en": "Transparent / Ice Hose",
+        "ar": "خرطوم شفاف / مثلج"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 50,
+      "extraPrice": null,
+      "image": "resimler/marpuclar.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "marpuc-2",
+      "categoryId": "marpuc",
+      "names": {
+        "tr": "Lüle değişimi",
+        "en": "Bowl Replacement",
+        "ar": "تغيير الرأس"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 250,
+      "extraPrice": null,
+      "image": "resimler/lüle.jpeg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-1",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Love 66",
+        "en": "Love 66",
+        "ar": "لوف 66"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-2",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Lady Killer",
+        "en": "Lady Killer",
+        "ar": "ليدي كيلر"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-3",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Pişmiş Şeftali",
+        "en": "Baked Peach",
+        "ar": "خوخ مطبوخ"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-4",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "İzmir Romantik",
+        "en": "Izmir Romantic",
+        "ar": "إزمير رومانتيك"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-5",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Nane",
+        "en": "Mint",
+        "ar": "نعناع"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-6",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Limon",
+        "en": "Lemon",
+        "ar": "ليمون"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-7",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Üzüm",
+        "en": "Grape",
+        "ar": "عنب"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-8",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Dejavu",
+        "en": "Dejavu",
+        "ar": "ديجافو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-9",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Çilek",
+        "en": "Strawberry",
+        "ar": "فراولة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-10",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Karpuz",
+        "en": "Watermelon",
+        "ar": "بطيخ"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-11",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Kavun",
+        "en": "Melon",
+        "ar": "شمام"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-12",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Mango",
+        "en": "Mango",
+        "ar": "مانجو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-13",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Şeftali",
+        "en": "Peach",
+        "ar": "خوخ"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-14",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Kola",
+        "en": "Cola",
+        "ar": "كولا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-15",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Tatlı Elma",
+        "en": "Sweet Apple",
+        "ar": "تفاح حلو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-16",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Sakız",
+        "en": "Gum",
+        "ar": "علكة"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-17",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Damla Sakızı",
+        "en": "Mastic",
+        "ar": "مستكة (داملا ساكيزي)"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-18",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Jelibon",
+        "en": "Gummy Bear",
+        "ar": "جيلي بون"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "nargile-19",
+      "categoryId": "nargile",
+      "names": {
+        "tr": "Turkish Mastik",
+        "en": "Turkish Mastic",
+        "ar": "مستكة تركية"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/nargile.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "klasik-nargile-1",
+      "categoryId": "klasik-nargile",
+      "names": {
+        "tr": "Çift Elma",
+        "en": "Double Apple",
+        "ar": "تفاحتين"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/klasik.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "klasik-nargile-2",
+      "categoryId": "klasik-nargile",
+      "names": {
+        "tr": "Nakhla Elma",
+        "en": "Nakhla Apple",
+        "ar": "نخلة تفاح"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/klasik.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "klasik-nargile-3",
+      "categoryId": "klasik-nargile",
+      "names": {
+        "tr": "Nakhla Cappuccino",
+        "en": "Nakhla Cappuccino",
+        "ar": "نخلة كابتشينو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 300,
+      "extraPrice": null,
+      "image": "resimler/klasik.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "special-1",
+      "categoryId": "special",
+      "names": {
+        "tr": "No 54",
+        "en": "No 54",
+        "ar": "رقم 54"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 400,
+      "extraPrice": null,
+      "image": "resimler/özel.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "special-2",
+      "categoryId": "special",
+      "names": {
+        "tr": "Pablo",
+        "en": "Pablo",
+        "ar": "بابلو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 400,
+      "extraPrice": null,
+      "image": "resimler/özel.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "special-3",
+      "categoryId": "special",
+      "names": {
+        "tr": "Lion",
+        "en": "Lion",
+        "ar": "ليون (الأسد)"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 400,
+      "extraPrice": null,
+      "image": "resimler/özel.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "special-4",
+      "categoryId": "special",
+      "names": {
+        "tr": "Bezmi Safa Mastring",
+        "en": "Bezmi Safa Mastering",
+        "ar": "بزمي صفا ماسترينغ"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 400,
+      "extraPrice": null,
+      "image": "resimler/özel.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "special-5",
+      "categoryId": "special",
+      "names": {
+        "tr": "Tony Montana",
+        "en": "Tony Montana",
+        "ar": "توني مونتانا"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 400,
+      "extraPrice": null,
+      "image": "resimler/özel.jpg",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "meyve-nargile-1",
+      "categoryId": "meyve-nargile",
+      "names": {
+        "tr": "Portakal",
+        "en": "Orange",
+        "ar": "برتقال"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 900,
+      "extraPrice": null,
+      "image": "resimler/meyvenargile.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "meyve-nargile-2",
+      "categoryId": "meyve-nargile",
+      "names": {
+        "tr": "Ananas",
+        "en": "Pineapple",
+        "ar": "أناناس"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 900,
+      "extraPrice": null,
+      "image": "resimler/meyvenargile.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "meyve-nargile-3",
+      "categoryId": "meyve-nargile",
+      "names": {
+        "tr": "Elma",
+        "en": "Apple",
+        "ar": "تفاح"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 900,
+      "extraPrice": null,
+      "image": "resimler/meyvenargile.png",
+      "icon": "☕",
+      "visible": true
+    },
+    {
+      "id": "meyve-nargile-4",
+      "categoryId": "meyve-nargile",
+      "names": {
+        "tr": "Mango",
+        "en": "Mango",
+        "ar": "مانجو"
+      },
+      "descriptions": {
+        "tr": "",
+        "en": "",
+        "ar": ""
+      },
+      "price": 900,
+      "extraPrice": null,
+      "image": "resimler/meyvenargile.png",
+      "icon": "☕",
+      "visible": true
+    }
+  ]
+}
