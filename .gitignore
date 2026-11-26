@@ -1,5 +1,7 @@
 node_modules/
 .publish/
+/private-panel/
+/admin/
 .DS_Store
 Thumbs.db
 *.log
