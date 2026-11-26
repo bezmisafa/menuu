@@ -2490,25 +2490,6 @@
       "image": "resimler/meyvenargile.png",
       "icon": "☕",
       "visible": true
-    },
-    {
-      "id": "urun-4db5521a-dbe1-4daf-926c-df6d2f5a5b18",
-      "categoryId": "soguk-kahveler",
-      "names": {
-        "tr": "deneme",
-        "en": "deneme",
-        "ar": "deneme"
-      },
-      "descriptions": {
-        "tr": "",
-        "en": "",
-        "ar": ""
-      },
-      "price": 100,
-      "extraPrice": null,
-      "image": "uploads/6ee8aea8-7edd-4184-ba05-06f3bb20f1c6.webp",
-      "icon": "☕",
-      "visible": true
     }
   ]
 }
